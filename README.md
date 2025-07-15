@@ -4,7 +4,7 @@
 
 This project implements and backtests an **ARIMA Time Series Model to forecast stock prices** using Python. The strategy generates a **buy signal** when:
 
-1. The **prediction for the closing price of the next day is higher than the previous**, and
+1. The **prediction for the closing price of the next day is higher than the previous**
 
 ---
 
