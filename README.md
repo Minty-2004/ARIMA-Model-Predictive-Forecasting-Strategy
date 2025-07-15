@@ -22,7 +22,7 @@ This project implements and backtests an **ARIMA Time Series Model to forecast s
 
 ## Strategy Motivation
 
-1. **The ARIMA model** can be a powerful tool is predicting future movements.
+1. **The ARIMA model** can be a powerful tool in predicting future movements.
 2. Using the model **could generate an accurate prediction** of how the stock is expected to move on the next day.
 3. Hence, the model forces a buy signal  if the model predicts **a price increase on the following day**.
 4. This strategy, in theory, works best in **non-volatile markets where movement is smooth and predictable**, though this strategy may still be applied in other markets.
